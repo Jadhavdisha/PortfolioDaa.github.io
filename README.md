@@ -20,7 +20,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## Portfolio Topic
 
 <dl>
-<dt></dt>
+<dt>Data Analyasis and Algorithms</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
 <dd>Course Code Placeholder</dd>
