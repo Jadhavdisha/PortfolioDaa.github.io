@@ -13,22 +13,22 @@ Here’s a glimpse into my journey:
 **Problem Statement**
 "To develop an adaptive e-learning platform that personalizes the learning experience."
 
-1. User Profile Creation
+* User Profile Creation
 Objective: To create personalized user profiles that capture individual learners' backgrounds, preferences, and learning goals.
 
 Problem Addressed: Many e-learning platforms provide a one-size-fits-all experience, which can lead to disengagement. By allowing users to create profiles that include their learning styles, interests, and prior knowledge, the platform can tailor the learning experience to meet individual needs.
 
-2. Content Recommendations Engine
+* Content Recommendations Engine
 Objective: To develop an intelligent system that analyzes user data to recommend relevant learning materials.
 
 Problem Addressed: With an overwhelming amount of content available, learners often struggle to find the most relevant resources. A content recommendations engine can help by suggesting personalized courses, articles, and videos based on users' profiles, past interactions, and performance, thereby enhancing engagement and learning outcomes.
 
-3. Assessment and Feedback System
+* Assessment and Feedback System
 Objective: To implement a system that provides real-time assessments and personalized feedback to learners.
 
 Problem Addressed: Traditional assessments often provide delayed feedback, which can hinder the learning process. An adaptive assessment system can evaluate learners' understanding in real-time and provide immediate, constructive feedback. This helps learners identify areas for improvement and reinforces their learning.
 
-4. Progress Tracking Dashboard
+* Progress Tracking Dashboard
 Objective: To create a visual dashboard that allows learners to track their progress, achievements, and areas for improvement.
 
 Problem Addressed: Learners often lack visibility into their progress, which can affect motivation and goal-setting. A progress tracking dashboard can display metrics such as completed modules, assessment scores, and learning milestones, helping learners stay motivated and informed about their learning journey.
